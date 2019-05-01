@@ -1,5 +1,5 @@
-export const key = '52e36f8648489c363a22894ca654c187';
-export const proxy = 'https://cors-anywhere.herokuapp.com/';
+export const key = '639c81401b317a526f16d0b9c22a4205';
+export const proxy = 'https://cors.io/?';
 
 //462b1cc8d4f2730081462fbc65136320
 //26078d360554be2bcd58da35341fe3ca
